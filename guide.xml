@@ -8,6 +8,26 @@
     <display-name lang="pt">TLC</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="TelecineAction">
+    <display-name lang="pt">TelecineAction</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TelecineTouch">
+    <display-name lang="pt">TelecineTouch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TelecineFun">
+    <display-name lang="pt">TelecineFun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TelecinePipoca">
+    <display-name lang="pt">TelecinePipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TelecineCult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <channel id="GloboRJ">
     <display-name lang="pt">GloboRJ</display-name>
     <url>http://www.meuguia.tv</url>
@@ -201,8 +221,185 @@
   <programme start="20200815235600 -0300" stop="20200816002000 -0300" channel="TLC">
     <title lang="pt">A Médium</title>
   </programme>
-  <programme start="20200815013400 -0300" stop="20200815025700 -0300" channel="GloboRJ">
-    <title lang="pt">Máquina Mortífera</title>
+  <programme start="20200815013500 -0300" stop="20200815040500 -0300" channel="TelecineAction">
+    <title lang="pt">A Espada do Imortal</title>
+  </programme>
+  <programme start="20200815040500 -0300" stop="20200815063000 -0300" channel="TelecineAction">
+    <title lang="pt">Death Note: Iluminando Um Novo Mundo</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815082500 -0300" channel="TelecineAction">
+    <title lang="pt">Velozes E Furiosos 4</title>
+  </programme>
+  <programme start="20200815082500 -0300" stop="20200815102500 -0300" channel="TelecineAction">
+    <title lang="pt">Maze Runner: Correr ou Morrer</title>
+  </programme>
+  <programme start="20200815102500 -0300" stop="20200815125000 -0300" channel="TelecineAction">
+    <title lang="pt">O Exterminador Do Futuro 2</title>
+  </programme>
+  <programme start="20200815125000 -0300" stop="20200815144500 -0300" channel="TelecineAction">
+    <title lang="pt">O Inferno De Dante</title>
+  </programme>
+  <programme start="20200815144500 -0300" stop="20200815162500 -0300" channel="TelecineAction">
+    <title lang="pt">Quarteto Fantástico e o Surfista Prateado</title>
+  </programme>
+  <programme start="20200815162500 -0300" stop="20200815181500 -0300" channel="TelecineAction">
+    <title lang="pt">Refém do Jogo</title>
+  </programme>
+  <programme start="20200815181500 -0300" stop="20200815201000 -0300" channel="TelecineAction">
+    <title lang="pt">007</title>
+  </programme>
+  <programme start="20200815201000 -0300" stop="20200815220000 -0300" channel="TelecineAction">
+    <title lang="pt">Quarteto Fantástico (2005)</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815235500 -0300" channel="TelecineAction">
+    <title lang="pt">Percy Jackson e o Mar de Monstros</title>
+  </programme>
+  <programme start="20200815235500 -0300" stop="20200816015000 -0300" channel="TelecineAction">
+    <title lang="pt">Maratona Blumhouse: Halloween (2018)</title>
+  </programme>
+  <programme start="20200815013500 -0300" stop="20200815031500 -0300" channel="TelecineTouch">
+    <title lang="pt">Amor, Romance e Chocolate</title>
+  </programme>
+  <programme start="20200815031500 -0300" stop="20200815050000 -0300" channel="TelecineTouch">
+    <title lang="pt">A Qualquer Preço (2014)</title>
+  </programme>
+  <programme start="20200815050000 -0300" stop="20200815065500 -0300" channel="TelecineTouch">
+    <title lang="pt">Enquanto Você Dormia</title>
+  </programme>
+  <programme start="20200815065500 -0300" stop="20200815084000 -0300" channel="TelecineTouch">
+    <title lang="pt">Momentos de Felicidade Insignificante</title>
+  </programme>
+  <programme start="20200815084000 -0300" stop="20200815103500 -0300" channel="TelecineTouch">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+  </programme>
+  <programme start="20200815103500 -0300" stop="20200815122000 -0300" channel="TelecineTouch">
+    <title lang="pt">Meu Namorado É Um Zumbi</title>
+  </programme>
+  <programme start="20200815122000 -0300" stop="20200815142000 -0300" channel="TelecineTouch">
+    <title lang="pt">Ela é a Poderosa</title>
+  </programme>
+  <programme start="20200815142000 -0300" stop="20200815161000 -0300" channel="TelecineTouch">
+    <title lang="pt">Dirty Dancing</title>
+  </programme>
+  <programme start="20200815161000 -0300" stop="20200815174500 -0300" channel="TelecineTouch">
+    <title lang="pt">Dirty Dancing 2</title>
+  </programme>
+  <programme start="20200815174500 -0300" stop="20200815201500 -0300" channel="TelecineTouch">
+    <title lang="pt">Sex And The City: O Filme</title>
+  </programme>
+  <programme start="20200815201500 -0300" stop="20200815220000 -0300" channel="TelecineTouch">
+    <title lang="pt">Todos Os Caminhos Levam A Roma</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816002500 -0300" channel="TelecineTouch">
+    <title lang="pt">Bohemian Rhapsody</title>
+  </programme>
+  <programme start="20200815013500 -0300" stop="20200815032500 -0300" channel="TelecineFun">
+    <title lang="pt">Hunter x Hunter: A Última Missão</title>
+  </programme>
+  <programme start="20200815032500 -0300" stop="20200815045000 -0300" channel="TelecineFun">
+    <title lang="pt">Gotham City 1889: Um Conto de Batman</title>
+  </programme>
+  <programme start="20200815045000 -0300" stop="20200815060500 -0300" channel="TelecineFun">
+    <title lang="pt">Jackass 2.5</title>
+  </programme>
+  <programme start="20200815060500 -0300" stop="20200815075000 -0300" channel="TelecineFun">
+    <title lang="pt">Chocante</title>
+  </programme>
+  <programme start="20200815075000 -0300" stop="20200815090000 -0300" channel="TelecineFun">
+    <title lang="pt">Minha Vida de Abobrinha</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815103500 -0300" channel="TelecineFun">
+    <title lang="pt">Bobeou Dançou</title>
+  </programme>
+  <programme start="20200815103500 -0300" stop="20200815120500 -0300" channel="TelecineFun">
+    <title lang="pt">Snoopy &amp; Charlie Brown</title>
+  </programme>
+  <programme start="20200815120500 -0300" stop="20200815134000 -0300" channel="TelecineFun">
+    <title lang="pt">O Segredo dos Animais</title>
+  </programme>
+  <programme start="20200815134000 -0300" stop="20200815153500 -0300" channel="TelecineFun">
+    <title lang="pt">Paddington 2</title>
+  </programme>
+  <programme start="20200815153500 -0300" stop="20200815171000 -0300" channel="TelecineFun">
+    <title lang="pt">Jimmy Neutron: O Menino Gênio</title>
+  </programme>
+  <programme start="20200815171000 -0300" stop="20200815192000 -0300" channel="TelecineFun">
+    <title lang="pt">Esqueceram de Mim 2</title>
+  </programme>
+  <programme start="20200815192000 -0300" stop="20200815220000 -0300" channel="TelecineFun">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815234500 -0300" channel="TelecineFun">
+    <title lang="pt">Os Seis Signos da Luz</title>
+  </programme>
+  <programme start="20200815234500 -0300" stop="20200816014000 -0300" channel="TelecineFun">
+    <title lang="pt">Descendentes 3</title>
+  </programme>
+  <programme start="20200815013500 -0300" stop="20200815031000 -0300" channel="TelecinePipoca">
+    <title lang="pt">Meu Bebê</title>
+  </programme>
+  <programme start="20200815031000 -0300" stop="20200815045000 -0300" channel="TelecinePipoca">
+    <title lang="pt">O Velho e a Arma</title>
+  </programme>
+  <programme start="20200815045000 -0300" stop="20200815063500 -0300" channel="TelecinePipoca">
+    <title lang="pt">Presas no Paraíso</title>
+  </programme>
+  <programme start="20200815063500 -0300" stop="20200815090500 -0300" channel="TelecinePipoca">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20200815090500 -0300" stop="20200815110000 -0300" channel="TelecinePipoca">
+    <title lang="pt">Kung Fu Yoga</title>
+  </programme>
+  <programme start="20200815110000 -0300" stop="20200815130500 -0300" channel="TelecinePipoca">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+  </programme>
+  <programme start="20200815130500 -0300" stop="20200815152500 -0300" channel="TelecinePipoca">
+    <title lang="pt">O Dia do Atentado</title>
+  </programme>
+  <programme start="20200815152500 -0300" stop="20200815172500 -0300" channel="TelecinePipoca">
+    <title lang="pt">Lutando Pela Família</title>
+  </programme>
+  <programme start="20200815172500 -0300" stop="20200815195000 -0300" channel="TelecinePipoca">
+    <title lang="pt">Velozes &amp; Furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20200815195000 -0300" stop="20200815220000 -0300" channel="TelecinePipoca">
+    <title lang="pt">John Wick: Um Novo Dia Para Matar</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816001000 -0300" channel="TelecinePipoca">
+    <title lang="pt">O Protetor 2</title>
+  </programme>
+  <programme start="20200815012500 -0300" stop="20200815030000 -0300" channel="TelecineCult">
+    <title lang="pt">Cheech &amp; Chong: Queimando Tudo</title>
+  </programme>
+  <programme start="20200815030000 -0300" stop="20200815050000 -0300" channel="TelecineCult">
+    <title lang="pt">Eu Vos Saúdo, Maria</title>
+  </programme>
+  <programme start="20200815050000 -0300" stop="20200815064500 -0300" channel="TelecineCult">
+    <title lang="pt">O Chefão de Nova York</title>
+  </programme>
+  <programme start="20200815064500 -0300" stop="20200815082500 -0300" channel="TelecineCult">
+    <title lang="pt">Lamén Shop</title>
+  </programme>
+  <programme start="20200815082500 -0300" stop="20200815100500 -0300" channel="TelecineCult">
+    <title lang="pt">A Incrível Jornada De Jacqueline</title>
+  </programme>
+  <programme start="20200815100500 -0300" stop="20200815115500 -0300" channel="TelecineCult">
+    <title lang="pt">Encontros e Desencontros</title>
+  </programme>
+  <programme start="20200815115500 -0300" stop="20200815152500 -0300" channel="TelecineCult">
+    <title lang="pt">O Poderoso Chefão</title>
+  </programme>
+  <programme start="20200815152500 -0300" stop="20200815173500 -0300" channel="TelecineCult">
+    <title lang="pt">Os Intocáveis (1987)</title>
+  </programme>
+  <programme start="20200815173500 -0300" stop="20200815192000 -0300" channel="TelecineCult">
+    <title lang="pt">48 Horas</title>
+  </programme>
+  <programme start="20200815192000 -0300" stop="20200815220000 -0300" channel="TelecineCult">
+    <title lang="pt">Os Infiltrados</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816000000 -0300" channel="TelecineCult">
+    <title lang="pt">O Farol</title>
   </programme>
   <programme start="20200815025700 -0300" stop="20200815042300 -0300" channel="GloboRJ">
     <title lang="pt">Corujão: A Boneca do Mal</title>
