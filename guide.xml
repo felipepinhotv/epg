@@ -28,6 +28,22 @@
     <display-name lang="pt">Telecine Cult</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Fox.br">
+    <display-name lang="pt">Fox.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warnerchannel.br">
+    <display-name lang="pt">Warnerchannel.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow.br">
+    <display-name lang="pt">Multishow.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <channel id="GloboRJ">
     <display-name lang="pt">GloboRJ</display-name>
     <url>http://www.meuguia.tv</url>
@@ -401,29 +417,425 @@
   <programme start="20200815220000 -0300" stop="20200816000000 -0300" channel="TelecineCult">
     <title lang="pt">O Farol</title>
   </programme>
-  <programme start="20200815025700 -0300" stop="20200815042300 -0300" channel="GloboRJ">
-    <title lang="pt">Corujão: A Boneca do Mal</title>
+  <programme start="20200815001400 -0300" stop="20200815023100 -0300" channel="Fox.br">
+    <title lang="pt">Operação Red Sparrow</title>
   </programme>
-  <programme start="20200815042300 -0300" stop="20200815055000 -0300" channel="GloboRJ">
-    <title lang="pt">Corujão Ii: Qual é a Aposta</title>
+  <programme start="20200815023100 -0300" stop="20200815043400 -0300" channel="Fox.br">
+    <title lang="pt">Julie &amp; Julia</title>
   </programme>
-  <programme start="20200815055000 -0300" stop="20200815065000 -0300" channel="GloboRJ">
-    <title lang="pt">Como Será?</title>
+  <programme start="20200815043400 -0300" stop="20200815060000 -0300" channel="Fox.br">
+    <title lang="pt">Família Hollar</title>
   </programme>
-  <programme start="20200815065000 -0300" stop="20200815120000 -0300" channel="GloboRJ">
-    <title lang="pt">É de Casa</title>
+  <programme start="20200815060000 -0300" stop="20200815062300 -0300" channel="Fox.br">
+    <title lang="pt">Futurama</title>
   </programme>
-  <programme start="20200815120000 -0300" stop="20200815125000 -0300" channel="GloboRJ">
-    <title lang="pt">RJ1</title>
+  <programme start="20200815062300 -0300" stop="20200815064700 -0300" channel="Fox.br">
+    <title lang="pt">Futurama</title>
   </programme>
-  <programme start="20200815125000 -0300" stop="20200815131500 -0300" channel="GloboRJ">
-    <title lang="pt">Globo Esporte</title>
+  <programme start="20200815064700 -0300" stop="20200815070000 -0300" channel="Fox.br">
+    <title lang="pt">A Noite das Cenouras Vivas</title>
   </programme>
-  <programme start="20200815131500 -0300" stop="20200815140000 -0300" channel="GloboRJ">
-    <title lang="pt">Jornal Hoje</title>
+  <programme start="20200815070000 -0300" stop="20200815072300 -0300" channel="Fox.br">
+    <title lang="pt">Will &amp; Grace</title>
   </programme>
-  <programme start="20200815140000 -0300" stop="20200815150500 -0300" channel="GloboRJ">
-    <title lang="pt">Toma Lá, Dá Cá</title>
+  <programme start="20200815072300 -0300" stop="20200815074700 -0300" channel="Fox.br">
+    <title lang="pt">Will &amp; Grace</title>
+  </programme>
+  <programme start="20200815074700 -0300" stop="20200815080000 -0300" channel="Fox.br">
+    <title lang="pt">Zoom In</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815090000 -0300" channel="Fox.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815100000 -0300" channel="Fox.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815112700 -0300" channel="Fox.br">
+    <title lang="pt">Alvin e os Esquilos 3</title>
+  </programme>
+  <programme start="20200815112700 -0300" stop="20200815114900 -0300" channel="Fox.br">
+    <title lang="pt">Os Simpsons</title>
+  </programme>
+  <programme start="20200815114900 -0300" stop="20200815121200 -0300" channel="Fox.br">
+    <title lang="pt">Os Simpsons</title>
+  </programme>
+  <programme start="20200815121200 -0300" stop="20200815123500 -0300" channel="Fox.br">
+    <title lang="pt">Os Simpsons</title>
+  </programme>
+  <programme start="20200815123500 -0300" stop="20200815141800 -0300" channel="Fox.br">
+    <title lang="pt">Beethoven 3: Uma Família em Apuros</title>
+  </programme>
+  <programme start="20200815141800 -0300" stop="20200815162600 -0300" channel="Fox.br">
+    <title lang="pt">Homem-Aranha 2</title>
+  </programme>
+  <programme start="20200815162600 -0300" stop="20200815180300 -0300" channel="Fox.br">
+    <title lang="pt">Rio</title>
+  </programme>
+  <programme start="20200815180300 -0300" stop="20200815193200 -0300" channel="Fox.br">
+    <title lang="pt">Os Simpsons</title>
+  </programme>
+  <programme start="20200815193200 -0300" stop="20200815210000 -0300" channel="Fox.br">
+    <title lang="pt">Madagascar 2: A Grande Escapada</title>
+  </programme>
+  <programme start="20200815210000 -0300" stop="20200815230200 -0300" channel="Fox.br">
+    <title lang="pt">Esqueceram de Mim 2</title>
+  </programme>
+  <programme start="20200815230200 -0300" stop="20200816011800 -0300" channel="Fox.br">
+    <title lang="pt">Logan</title>
+  </programme>
+  <programme start="20200815005600 -0300" stop="20200815022800 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Deserto</title>
+  </programme>
+  <programme start="20200815022800 -0300" stop="20200815024900 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815024900 -0300" stop="20200815030900 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815030900 -0300" stop="20200815033200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815033200 -0300" stop="20200815035200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815035200 -0300" stop="20200815042100 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20200815042100 -0300" stop="20200815045200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20200815045200 -0300" stop="20200815051600 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Middle</title>
+  </programme>
+  <programme start="20200815051600 -0300" stop="20200815060000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Flash</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815062500 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20200815062500 -0300" stop="20200815065000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20200815065000 -0300" stop="20200815071500 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20200815071500 -0300" stop="20200815074000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20200815074000 -0300" stop="20200815080500 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20200815080500 -0300" stop="20200815083000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Middle</title>
+  </programme>
+  <programme start="20200815083000 -0300" stop="20200815085400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Middle</title>
+  </programme>
+  <programme start="20200815085400 -0300" stop="20200815091400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815091400 -0300" stop="20200815093600 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815093600 -0300" stop="20200815100000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815102200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815102200 -0300" stop="20200815115200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Mulan</title>
+  </programme>
+  <programme start="20200815115200 -0300" stop="20200815141200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Rogue One: Uma História Star Wars</title>
+  </programme>
+  <programme start="20200815141200 -0300" stop="20200815143800 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20200815143800 -0300" stop="20200815150400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20200815150400 -0300" stop="20200815152700 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815152700 -0300" stop="20200815155100 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815155100 -0300" stop="20200815161200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815161200 -0300" stop="20200815163400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200815163400 -0300" stop="20200815165900 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20200815165900 -0300" stop="20200815172400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20200815172400 -0300" stop="20200815175000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20200815175000 -0300" stop="20200815181200 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20200815181200 -0300" stop="20200815200000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Valente</title>
+  </programme>
+  <programme start="20200815200000 -0300" stop="20200815223000 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Harry Potter e a Ordem da Fênix</title>
+  </programme>
+  <programme start="20200815223000 -0300" stop="20200816002400 -0300" channel="Warnerchannel.br">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+  </programme>
+  <programme start="20200815000000 -0300" stop="20200815002900 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815002900 -0300" stop="20200815003000 -0300" channel="GNT">
+    <title lang="pt">Álbum de Família</title>
+  </programme>
+  <programme start="20200815003000 -0300" stop="20200815010000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815010000 -0300" stop="20200815020000 -0300" channel="GNT">
+    <title lang="pt">Victoria: A Vida de uma Rainha</title>
+  </programme>
+  <programme start="20200815020000 -0300" stop="20200815023000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815023000 -0300" stop="20200815030000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815030000 -0300" stop="20200815033000 -0300" channel="GNT">
+    <title lang="pt">Além da Conta: Novo (A)normal</title>
+  </programme>
+  <programme start="20200815033000 -0300" stop="20200815040000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas</title>
+  </programme>
+  <programme start="20200815040000 -0300" stop="20200815043000 -0300" channel="GNT">
+    <title lang="pt">O Rei da Reforma</title>
+  </programme>
+  <programme start="20200815043000 -0300" stop="20200815050000 -0300" channel="GNT">
+    <title lang="pt">O Rei da Reforma</title>
+  </programme>
+  <programme start="20200815050000 -0300" stop="20200815053000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha</title>
+  </programme>
+  <programme start="20200815053000 -0300" stop="20200815060000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815061500 -0300" channel="GNT">
+    <title lang="pt">Santa Ajude-Se</title>
+  </programme>
+  <programme start="20200815061500 -0300" stop="20200815063000 -0300" channel="GNT">
+    <title lang="pt">Arrasta Móveis</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815070000 -0300" channel="GNT">
+    <title lang="pt">A Louca das Plantas</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815080000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815085500 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20200815085500 -0300" stop="20200815090000 -0300" channel="GNT">
+    <title lang="pt">Álbum de Família</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815093000 -0300" channel="GNT">
+    <title lang="pt">Rainha da Cocada</title>
+  </programme>
+  <programme start="20200815093000 -0300" stop="20200815100000 -0300" channel="GNT">
+    <title lang="pt">Refazenda, com Bela Gil</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815103000 -0300" channel="GNT">
+    <title lang="pt">Refazenda, com Bela Gil</title>
+  </programme>
+  <programme start="20200815103000 -0300" stop="20200815110000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815110000 -0300" stop="20200815113000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815113000 -0300" stop="20200815120000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815120000 -0300" stop="20200815123000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815123000 -0300" stop="20200815130000 -0300" channel="GNT">
+    <title lang="pt">Além da Conta: Novo (A)normal</title>
+  </programme>
+  <programme start="20200815130000 -0300" stop="20200815140000 -0300" channel="GNT">
+    <title lang="pt">Pedro Pelo Mundo</title>
+  </programme>
+  <programme start="20200815140000 -0300" stop="20200815141500 -0300" channel="GNT">
+    <title lang="pt">Arrasta Móveis</title>
+  </programme>
+  <programme start="20200815141500 -0300" stop="20200815151500 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20200815151500 -0300" stop="20200815153000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajude-Se</title>
+  </programme>
+  <programme start="20200815153000 -0300" stop="20200815160000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815160000 -0300" stop="20200815163000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815163000 -0300" stop="20200815170000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20200815170000 -0300" stop="20200815173000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815173000 -0300" stop="20200815180000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815183000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo</title>
+  </programme>
+  <programme start="20200815183000 -0300" stop="20200815190000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo</title>
+  </programme>
+  <programme start="20200815190000 -0300" stop="20200815193000 -0300" channel="GNT">
+    <title lang="pt">Rainha da Cocada</title>
+  </programme>
+  <programme start="20200815193000 -0300" stop="20200815200000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815200000 -0300" stop="20200815203000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815203000 -0300" stop="20200815210000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática</title>
+  </programme>
+  <programme start="20200815210000 -0300" stop="20200815211500 -0300" channel="GNT">
+    <title lang="pt">Arrasta Móveis</title>
+  </programme>
+  <programme start="20200815211500 -0300" stop="20200815213000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajude-Se</title>
+  </programme>
+  <programme start="20200815213000 -0300" stop="20200815223000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20200815223000 -0300" stop="20200815232500 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20200815232500 -0300" stop="20200816000000 -0300" channel="GNT">
+    <title lang="pt">Além da Conta: Novo (A)normal</title>
+  </programme>
+  <programme start="20200815001600 -0300" stop="20200815004600 -0300" channel="Multishow.br">
+    <title lang="pt">Os Roni</title>
+  </programme>
+  <programme start="20200815004600 -0300" stop="20200815011900 -0300" channel="Multishow.br">
+    <title lang="pt">Se Sobreviver, Case</title>
+  </programme>
+  <programme start="20200815011900 -0300" stop="20200815015000 -0300" channel="Multishow.br">
+    <title lang="pt">Encara o Desafio?</title>
+  </programme>
+  <programme start="20200815015000 -0300" stop="20200815020000 -0300" channel="Multishow.br">
+    <title lang="pt">Treme Treme</title>
+  </programme>
+  <programme start="20200815020000 -0300" stop="20200815043000 -0300" channel="Multishow.br">
+    <title lang="pt">TVZ Ao Vivo</title>
+  </programme>
+  <programme start="20200815043000 -0300" stop="20200815045600 -0300" channel="Multishow.br">
+    <title lang="pt">O Show de Ed Bassmaster</title>
+  </programme>
+  <programme start="20200815045600 -0300" stop="20200815052600 -0300" channel="Multishow.br">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20200815052600 -0300" stop="20200815053500 -0300" channel="Multishow.br">
+    <title lang="pt">Treme Treme</title>
+  </programme>
+  <programme start="20200815053500 -0300" stop="20200815060200 -0300" channel="Multishow.br">
+    <title lang="pt">Trolados</title>
+  </programme>
+  <programme start="20200815060200 -0300" stop="20200815063000 -0300" channel="Multishow.br">
+    <title lang="pt">Off No Multishow</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815070000 -0300" channel="Multishow.br">
+    <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815072800 -0300" channel="Multishow.br">
+    <title lang="pt">Cassetadas da Internet</title>
+  </programme>
+  <programme start="20200815072800 -0300" stop="20200815080000 -0300" channel="Multishow.br">
+    <title lang="pt">Encara o Desafio?</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815085400 -0300" channel="Multishow.br">
+    <title lang="pt">Fugindo do Nocaute</title>
+  </programme>
+  <programme start="20200815085400 -0300" stop="20200815090200 -0300" channel="Multishow.br">
+    <title lang="pt">Treme Treme</title>
+  </programme>
+  <programme start="20200815090200 -0300" stop="20200815100000 -0300" channel="Multishow.br">
+    <title lang="pt">Ed Sheeran</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815123000 -0300" channel="Multishow.br">
+    <title lang="pt">Top TVZ</title>
+  </programme>
+  <programme start="20200815123000 -0300" stop="20200815130000 -0300" channel="Multishow.br">
+    <title lang="pt">Bastidores</title>
+  </programme>
+  <programme start="20200815130000 -0300" stop="20200815133000 -0300" channel="Multishow.br">
+    <title lang="pt">O Show de Ed Bassmaster</title>
+  </programme>
+  <programme start="20200815133000 -0300" stop="20200815140000 -0300" channel="Multishow.br">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20200815140000 -0300" stop="20200815143000 -0300" channel="Multishow.br">
+    <title lang="pt">Anota Aí</title>
+  </programme>
+  <programme start="20200815143000 -0300" stop="20200815150000 -0300" channel="Multishow.br">
+    <title lang="pt">TVZ Experimente</title>
+  </programme>
+  <programme start="20200815150000 -0300" stop="20200815160000 -0300" channel="Multishow.br">
+    <title lang="pt">Ed Sheeran</title>
+  </programme>
+  <programme start="20200815160000 -0300" stop="20200815170000 -0300" channel="Multishow.br">
+    <title lang="pt">Versões</title>
+  </programme>
+  <programme start="20200815170000 -0300" stop="20200815173000 -0300" channel="Multishow.br">
+    <title lang="pt">Os Roni</title>
+  </programme>
+  <programme start="20200815173000 -0300" stop="20200815180000 -0300" channel="Multishow.br">
+    <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815183000 -0300" channel="Multishow.br">
+    <title lang="pt">Off No Multishow</title>
+  </programme>
+  <programme start="20200815183000 -0300" stop="20200815190000 -0300" channel="Multishow.br">
+    <title lang="pt">Bastidores</title>
+  </programme>
+  <programme start="20200815190000 -0300" stop="20200815200000 -0300" channel="Multishow.br">
+    <title lang="pt">Top TVZ</title>
+  </programme>
+  <programme start="20200815200000 -0300" stop="20200815203000 -0300" channel="Multishow.br">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20200815203000 -0300" stop="20200815210000 -0300" channel="Multishow.br">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20200815210000 -0300" stop="20200815213000 -0300" channel="Multishow.br">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20200815213000 -0300" stop="20200815220000 -0300" channel="Multishow.br">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815223000 -0300" channel="Multishow.br">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20200815223000 -0300" stop="20200815230000 -0300" channel="Multishow.br">
+    <title lang="pt">Se Sobreviver, Case</title>
+  </programme>
+  <programme start="20200815230000 -0300" stop="20200815233000 -0300" channel="Multishow.br">
+    <title lang="pt">Se Sobreviver, Case</title>
+  </programme>
+  <programme start="20200815233000 -0300" stop="20200816000000 -0300" channel="Multishow.br">
+    <title lang="pt">Se Sobreviver, Case</title>
   </programme>
   <programme start="20200815150500 -0300" stop="20200815155000 -0300" channel="GloboRJ">
     <title lang="pt">Música Boa</title>
