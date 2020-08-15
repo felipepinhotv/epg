@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DiscoveryHH">
+    <display-name lang="pt">DiscoveryHH</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GloboRJ">
+    <display-name lang="pt">GloboRJ</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200815000500 -0300" stop="20200815010000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200815010000 -0300" stop="20200815025200 -0300" channel="DiscoveryHH">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20200815025200 -0300" stop="20200815034000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200815034000 -0300" stop="20200815042800 -0300" channel="DiscoveryHH">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200815042800 -0300" stop="20200815051700 -0300" channel="DiscoveryHH">
+    <title lang="pt">Esquadrão da Moda</title>
+  </programme>
+  <programme start="20200815051700 -0300" stop="20200815054500 -0300" channel="DiscoveryHH">
+    <title lang="pt">Reforma À Venda</title>
+  </programme>
+  <programme start="20200815054500 -0300" stop="20200815061000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Vida No Paraíso: Havaí</title>
+  </programme>
+  <programme start="20200815061000 -0300" stop="20200815070000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815075000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200815075000 -0300" stop="20200815083900 -0300" channel="DiscoveryHH">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+  </programme>
+  <programme start="20200815083900 -0300" stop="20200815092800 -0300" channel="DiscoveryHH">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+  </programme>
+  <programme start="20200815092800 -0300" stop="20200815101600 -0300" channel="DiscoveryHH">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+  </programme>
+  <programme start="20200815101600 -0300" stop="20200815110400 -0300" channel="DiscoveryHH">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200815110400 -0300" stop="20200815115200 -0300" channel="DiscoveryHH">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200815115200 -0300" stop="20200815121700 -0300" channel="DiscoveryHH">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200815121700 -0300" stop="20200815124200 -0300" channel="DiscoveryHH">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200815124200 -0300" stop="20200815130800 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815130800 -0300" stop="20200815133500 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815133500 -0300" stop="20200815140100 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815140100 -0300" stop="20200815142800 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815142800 -0300" stop="20200815145400 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815145400 -0300" stop="20200815152100 -0300" channel="DiscoveryHH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200815152100 -0300" stop="20200815161400 -0300" channel="DiscoveryHH">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+  </programme>
+  <programme start="20200815161400 -0300" stop="20200815170700 -0300" channel="DiscoveryHH">
+    <title lang="pt">Extreme Makeover: Reconstrução Total</title>
+  </programme>
+  <programme start="20200815170700 -0300" stop="20200815180000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815185000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200815185000 -0300" stop="20200815194000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200815194000 -0300" stop="20200815203000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200815203000 -0300" stop="20200815212000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200815212000 -0300" stop="20200815221000 -0300" channel="DiscoveryHH">
+    <title lang="pt">De Casa Nova</title>
+  </programme>
+  <programme start="20200815221000 -0300" stop="20200815223400 -0300" channel="DiscoveryHH">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200815223400 -0300" stop="20200815225800 -0300" channel="DiscoveryHH">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200815225800 -0300" stop="20200815232500 -0300" channel="DiscoveryHH">
+    <title lang="pt">Menos É Demais</title>
+  </programme>
+  <programme start="20200815232500 -0300" stop="20200815235200 -0300" channel="DiscoveryHH">
+    <title lang="pt">Menos É Demais</title>
+  </programme>
+  <programme start="20200815235200 -0300" stop="20200816004000 -0300" channel="DiscoveryHH">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+  </programme>
+  <programme start="20200815002000 -0300" stop="20200815010900 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815010900 -0300" stop="20200815015800 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815015800 -0300" stop="20200815024800 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+  </programme>
+  <programme start="20200815024800 -0300" stop="20200815033800 -0300" channel="TLC">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20200815033800 -0300" stop="20200815042800 -0300" channel="TLC">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20200815042800 -0300" stop="20200815051700 -0300" channel="TLC">
+    <title lang="pt">Os Pequenos Johnstons</title>
+  </programme>
+  <programme start="20200815051700 -0300" stop="20200815060500 -0300" channel="TLC">
+    <title lang="pt">Os Pequenos Johnstons</title>
+  </programme>
+  <programme start="20200815060500 -0300" stop="20200815063000 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+  </programme>
+  <programme start="20200815063000 -0300" stop="20200815072000 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+  </programme>
+  <programme start="20200815072000 -0300" stop="20200815080900 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+  </programme>
+  <programme start="20200815080900 -0300" stop="20200815085800 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+  </programme>
+  <programme start="20200815085800 -0300" stop="20200815094700 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+  </programme>
+  <programme start="20200815094700 -0300" stop="20200815112400 -0300" channel="TLC">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20200815112400 -0300" stop="20200815121200 -0300" channel="TLC">
+    <title lang="pt">Beleza Oculta</title>
+  </programme>
+  <programme start="20200815121200 -0300" stop="20200815130200 -0300" channel="TLC">
+    <title lang="pt">Beleza Oculta</title>
+  </programme>
+  <programme start="20200815130200 -0300" stop="20200815135200 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815135200 -0300" stop="20200815144200 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815144200 -0300" stop="20200815153200 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815153200 -0300" stop="20200815162200 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20200815162200 -0300" stop="20200815171100 -0300" channel="TLC">
+    <title lang="pt">Entre Mãe e Filha</title>
+  </programme>
+  <programme start="20200815171100 -0300" stop="20200815180000 -0300" channel="TLC">
+    <title lang="pt">Entre Mãe e Filha</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815194400 -0300" channel="TLC">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20200815194400 -0300" stop="20200815203400 -0300" channel="TLC">
+    <title lang="pt">E Se Eu Fosse Homem?</title>
+  </programme>
+  <programme start="20200815203400 -0300" stop="20200815212400 -0300" channel="TLC">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+  </programme>
+  <programme start="20200815212400 -0300" stop="20200815221400 -0300" channel="TLC">
+    <title lang="pt">90 Dias para Casar: E agora?</title>
+  </programme>
+  <programme start="20200815221400 -0300" stop="20200815230400 -0300" channel="TLC">
+    <title lang="pt">90 Dias para Casar: E agora?</title>
+  </programme>
+  <programme start="20200815230400 -0300" stop="20200815235600 -0300" channel="TLC">
+    <title lang="pt">90 Dias para Casar: E agora?</title>
+  </programme>
+  <programme start="20200815235600 -0300" stop="20200816002000 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+  </programme>
+  <programme start="20200815013400 -0300" stop="20200815025700 -0300" channel="GloboRJ">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200815025700 -0300" stop="20200815042300 -0300" channel="GloboRJ">
+    <title lang="pt">Corujão: A Boneca do Mal</title>
+  </programme>
+  <programme start="20200815042300 -0300" stop="20200815055000 -0300" channel="GloboRJ">
+    <title lang="pt">Corujão Ii: Qual é a Aposta</title>
+  </programme>
+  <programme start="20200815055000 -0300" stop="20200815065000 -0300" channel="GloboRJ">
+    <title lang="pt">Como Será?</title>
+  </programme>
+  <programme start="20200815065000 -0300" stop="20200815120000 -0300" channel="GloboRJ">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20200815120000 -0300" stop="20200815125000 -0300" channel="GloboRJ">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200815125000 -0300" stop="20200815131500 -0300" channel="GloboRJ">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200815131500 -0300" stop="20200815140000 -0300" channel="GloboRJ">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200815140000 -0300" stop="20200815150500 -0300" channel="GloboRJ">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200815150500 -0300" stop="20200815155000 -0300" channel="GloboRJ">
+    <title lang="pt">Música Boa</title>
+  </programme>
+  <programme start="20200815155000 -0300" stop="20200815183000 -0300" channel="GloboRJ">
+    <title lang="pt">Caldeirão do Huck</title>
+  </programme>
+  <programme start="20200815183000 -0300" stop="20200815191500 -0300" channel="GloboRJ">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200815191500 -0300" stop="20200815194000 -0300" channel="GloboRJ">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200815194000 -0300" stop="20200815203000 -0300" channel="GloboRJ">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200815203000 -0300" stop="20200815214000 -0300" channel="GloboRJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200815214000 -0300" stop="20200815224500 -0300" channel="GloboRJ">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200815224500 -0300" stop="20200815231500 -0300" channel="GloboRJ">
+    <title lang="pt">Zorra</title>
+  </programme>
+  <programme start="20200815231500 -0300" stop="20200816010500 -0300" channel="GloboRJ">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+</tv>
