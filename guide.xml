@@ -28,6 +28,10 @@
     <display-name lang="pt">Telecine Cult</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="TelecinePremium">
+    <display-name lang="pt">TelecinePremium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <channel id="Fox.br">
     <display-name lang="pt">Fox.br</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -42,6 +46,66 @@
   </channel>
   <channel id="Multishow.br">
     <display-name lang="pt">Multishow.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FoxLife">
+    <display-name lang="pt">FoxLife</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fx.br">
+    <display-name lang="pt">Fx.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix.br">
+    <display-name lang="pt">Megapix.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNTSerie.br">
+    <display-name lang="pt">TNTSerie.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AE">
+    <display-name lang="pt">AE</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramounthd.br">
+    <display-name lang="pt">Paramounthd.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Universalchannel.br">
+    <display-name lang="pt">Universalchannel.br</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CanalSony">
+    <display-name lang="pt">CanalSony</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="StudioUniversal">
+    <display-name lang="pt">StudioUniversal</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="GloboRJ">
@@ -416,6 +480,42 @@
   </programme>
   <programme start="20200815220000 -0300" stop="20200816000000 -0300" channel="TelecineCult">
     <title lang="pt">O Farol</title>
+  </programme>
+  <programme start="20200815000000 -0300" stop="20200815022000 -0300" channel="TelecinePremium">
+    <title lang="pt">Creed II</title>
+  </programme>
+  <programme start="20200815022000 -0300" stop="20200815041000 -0300" channel="TelecinePremium">
+    <title lang="pt">Quem Você Pensa Que Sou</title>
+  </programme>
+  <programme start="20200815041000 -0300" stop="20200815060000 -0300" channel="TelecinePremium">
+    <title lang="pt">Starfish</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815080000 -0300" channel="TelecinePremium">
+    <title lang="pt">Submersão</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815100500 -0300" channel="TelecinePremium">
+    <title lang="pt">A Vingança Está na Moda</title>
+  </programme>
+  <programme start="20200815100500 -0300" stop="20200815115500 -0300" channel="TelecinePremium">
+    <title lang="pt">Cortina de Fogo 2</title>
+  </programme>
+  <programme start="20200815115500 -0300" stop="20200815135500 -0300" channel="TelecinePremium">
+    <title lang="pt">Belleville Cop</title>
+  </programme>
+  <programme start="20200815135500 -0300" stop="20200815154000 -0300" channel="TelecinePremium">
+    <title lang="pt">Apenas o Começo</title>
+  </programme>
+  <programme start="20200815154000 -0300" stop="20200815175000 -0300" channel="TelecinePremium">
+    <title lang="pt">Atentado ao Hotel Taj Mahal</title>
+  </programme>
+  <programme start="20200815175000 -0300" stop="20200815195000 -0300" channel="TelecinePremium">
+    <title lang="pt">X-men: Fênix Negra</title>
+  </programme>
+  <programme start="20200815195000 -0300" stop="20200815220000 -0300" channel="TelecinePremium">
+    <title lang="pt">Rocketman</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816001000 -0300" channel="TelecinePremium">
+    <title lang="pt">Divaldo: O Mensageiro da Paz</title>
   </programme>
   <programme start="20200815001400 -0300" stop="20200815023100 -0300" channel="Fox.br">
     <title lang="pt">Operação Red Sparrow</title>
@@ -837,31 +937,514 @@
   <programme start="20200815233000 -0300" stop="20200816000000 -0300" channel="Multishow.br">
     <title lang="pt">Se Sobreviver, Case</title>
   </programme>
-  <programme start="20200815150500 -0300" stop="20200815155000 -0300" channel="GloboRJ">
-    <title lang="pt">Música Boa</title>
+  <programme start="20200815001100 -0300" stop="20200815022400 -0300" channel="TCM">
+    <title lang="pt">Teoria da Conspiração</title>
   </programme>
-  <programme start="20200815155000 -0300" stop="20200815183000 -0300" channel="GloboRJ">
-    <title lang="pt">Caldeirão do Huck</title>
+  <programme start="20200815022400 -0300" stop="20200815042300 -0300" channel="TCM">
+    <title lang="pt">Justiça para Todos</title>
   </programme>
-  <programme start="20200815183000 -0300" stop="20200815191500 -0300" channel="GloboRJ">
-    <title lang="pt">Novo Mundo</title>
+  <programme start="20200815042300 -0300" stop="20200815044700 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
   </programme>
-  <programme start="20200815191500 -0300" stop="20200815194000 -0300" channel="GloboRJ">
-    <title lang="pt">RJ2</title>
+  <programme start="20200815044700 -0300" stop="20200815052600 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
   </programme>
-  <programme start="20200815194000 -0300" stop="20200815203000 -0300" channel="GloboRJ">
-    <title lang="pt">Totalmente Demais</title>
+  <programme start="20200815052600 -0300" stop="20200815060000 -0300" channel="TCM">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20200815203000 -0300" stop="20200815214000 -0300" channel="GloboRJ">
-    <title lang="pt">Jornal Nacional</title>
+  <programme start="20200815060000 -0300" stop="20200815065700 -0300" channel="TCM">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20200815214000 -0300" stop="20200815224500 -0300" channel="GloboRJ">
-    <title lang="pt">Fina Estampa</title>
+  <programme start="20200815065700 -0300" stop="20200815083700 -0300" channel="TCM">
+    <title lang="pt">The Last Frontier</title>
   </programme>
-  <programme start="20200815224500 -0300" stop="20200815231500 -0300" channel="GloboRJ">
-    <title lang="pt">Zorra</title>
+  <programme start="20200815083700 -0300" stop="20200815090000 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
   </programme>
-  <programme start="20200815231500 -0300" stop="20200816010500 -0300" channel="GloboRJ">
-    <title lang="pt">Altas Horas</title>
+  <programme start="20200815090000 -0300" stop="20200815092300 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
+  </programme>
+  <programme start="20200815092300 -0300" stop="20200815094700 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
+  </programme>
+  <programme start="20200815094700 -0300" stop="20200815101000 -0300" channel="TCM">
+    <title lang="pt">Mad About You</title>
+  </programme>
+  <programme start="20200815101000 -0300" stop="20200815105900 -0300" channel="TCM">
+    <title lang="pt">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20200815105900 -0300" stop="20200815114800 -0300" channel="TCM">
+    <title lang="pt">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20200815114800 -0300" stop="20200815135000 -0300" channel="TCM">
+    <title lang="pt">A Síndrome da China</title>
+  </programme>
+  <programme start="20200815135000 -0300" stop="20200815155000 -0300" channel="TCM">
+    <title lang="pt">Justiça para Todos</title>
+  </programme>
+  <programme start="20200815155000 -0300" stop="20200815180900 -0300" channel="TCM">
+    <title lang="pt">O Dossiê Pelicano</title>
+  </programme>
+  <programme start="20200815180900 -0300" stop="20200815185800 -0300" channel="TCM">
+    <title lang="pt">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20200815185800 -0300" stop="20200815194800 -0300" channel="TCM">
+    <title lang="pt">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20200815194800 -0300" stop="20200815220000 -0300" channel="TCM">
+    <title lang="pt">Prova de Vida</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816001300 -0300" channel="TCM">
+    <title lang="pt">Teoria da Conspiração</title>
+  </programme>
+  <programme start="20200815010000 -0300" stop="20200815014400 -0300" channel="FoxLife">
+    <title lang="pt">9-1-1</title>
+  </programme>
+  <programme start="20200815014400 -0300" stop="20200815022900 -0300" channel="FoxLife">
+    <title lang="pt">9-1-1</title>
+  </programme>
+  <programme start="20200815022900 -0300" stop="20200815031000 -0300" channel="FoxLife">
+    <title lang="pt">The Romeo Section</title>
+  </programme>
+  <programme start="20200815031000 -0300" stop="20200815044100 -0300" channel="FoxLife">
+    <title lang="pt">Professora Sem Classe</title>
+  </programme>
+  <programme start="20200815044100 -0300" stop="20200815050900 -0300" channel="FoxLife">
+    <title lang="pt">Sinfonia Insana</title>
+  </programme>
+  <programme start="20200815050900 -0300" stop="20200815055100 -0300" channel="FoxLife">
+    <title lang="pt">Remedy</title>
+  </programme>
+  <programme start="20200815055100 -0300" stop="20200815063300 -0300" channel="FoxLife">
+    <title lang="pt">S.W.A.T.</title>
+  </programme>
+  <programme start="20200815063300 -0300" stop="20200815070000 -0300" channel="FoxLife">
+    <title lang="pt">Prata da Casa</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815073000 -0300" channel="FoxLife">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815073000 -0300" stop="20200815080000 -0300" channel="FoxLife">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815083000 -0300" channel="FoxLife">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815083000 -0300" stop="20200815090000 -0300" channel="FoxLife">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815100000 -0300" channel="FoxLife">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815102000 -0300" channel="FoxLife">
+    <title lang="pt">Life in Pieces</title>
+  </programme>
+  <programme start="20200815102000 -0300" stop="20200815110300 -0300" channel="FoxLife">
+    <title lang="pt">Remedy</title>
+  </programme>
+  <programme start="20200815110300 -0300" stop="20200815114700 -0300" channel="FoxLife">
+    <title lang="pt">Remedy</title>
+  </programme>
+  <programme start="20200815114700 -0300" stop="20200815123100 -0300" channel="FoxLife">
+    <title lang="pt">Remedy</title>
+  </programme>
+  <programme start="20200815123100 -0300" stop="20200815131500 -0300" channel="FoxLife">
+    <title lang="pt">Remedy</title>
+  </programme>
+  <programme start="20200815131500 -0300" stop="20200815145500 -0300" channel="FoxLife">
+    <title lang="pt">Mercado de Capitais</title>
+  </programme>
+  <programme start="20200815145500 -0300" stop="20200815154000 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20200815154000 -0300" stop="20200815162500 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20200815162500 -0300" stop="20200815171000 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20200815171000 -0300" stop="20200815175400 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20200815175400 -0300" stop="20200815183900 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815183900 -0300" stop="20200815192500 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815192500 -0300" stop="20200815200900 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815200900 -0300" stop="20200815205400 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815205400 -0300" stop="20200815213900 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815213900 -0300" stop="20200815222400 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815222400 -0300" stop="20200815231000 -0300" channel="FoxLife">
+    <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20200815231000 -0300" stop="20200816000000 -0300" channel="FoxLife">
+    <title lang="pt">Conselho Tutelar</title>
+  </programme>
+  <programme start="20200815022100 -0300" stop="20200815024500 -0300" channel="Fx.br">
+    <title lang="pt">Uma Família da Pesada</title>
+  </programme>
+  <programme start="20200815024500 -0300" stop="20200815030800 -0300" channel="Fx.br">
+    <title lang="pt">Bob's Burgers</title>
+  </programme>
+  <programme start="20200815030800 -0300" stop="20200815043800 -0300" channel="Fx.br">
+    <title lang="pt">Crimes e Trapaças</title>
+  </programme>
+  <programme start="20200815043800 -0300" stop="20200815060900 -0300" channel="Fx.br">
+    <title lang="pt">Jesse Stone: Perdido no Paraíso</title>
+  </programme>
+  <programme start="20200815060900 -0300" stop="20200815063300 -0300" channel="Fx.br">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200815063300 -0300" stop="20200815070000 -0300" channel="Fx.br">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200815070000 -0300" stop="20200815073000 -0300" channel="Fx.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815073000 -0300" stop="20200815080000 -0300" channel="Fx.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815080000 -0300" stop="20200815083000 -0300" channel="Fx.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815083000 -0300" stop="20200815090000 -0300" channel="Fx.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815090000 -0300" stop="20200815100000 -0300" channel="Fx.br">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200815100000 -0300" stop="20200815102300 -0300" channel="Fx.br">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200815102300 -0300" stop="20200815104700 -0300" channel="Fx.br">
+    <title lang="pt">Uma Família da Pesada</title>
+  </programme>
+  <programme start="20200815104700 -0300" stop="20200815124800 -0300" channel="Fx.br">
+    <title lang="pt">Star Trek: Sem Fronteiras</title>
+  </programme>
+  <programme start="20200815124800 -0300" stop="20200815144700 -0300" channel="Fx.br">
+    <title lang="pt">Super 8</title>
+  </programme>
+  <programme start="20200815144700 -0300" stop="20200815161800 -0300" channel="Fx.br">
+    <title lang="pt">Segurança de Shopping</title>
+  </programme>
+  <programme start="20200815161800 -0300" stop="20200815175300 -0300" channel="Fx.br">
+    <title lang="pt">O Atirador 2</title>
+  </programme>
+  <programme start="20200815175300 -0300" stop="20200815195100 -0300" channel="Fx.br">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+  </programme>
+  <programme start="20200815195100 -0300" stop="20200815220000 -0300" channel="Fx.br">
+    <title lang="pt">Indiana Jones e a Última Cruzada</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815234100 -0300" channel="Fx.br">
+    <title lang="pt">Privacidade Violada</title>
+  </programme>
+  <programme start="20200815234100 -0300" stop="20200816013900 -0300" channel="Fx.br">
+    <title lang="pt">Indiana Jones e o Templo da Perdição</title>
+  </programme>
+  <programme start="20200815001000 -0300" stop="20200815020000 -0300" channel="Megapix.br">
+    <title lang="pt">O Vidente</title>
+  </programme>
+  <programme start="20200815020000 -0300" stop="20200815040000 -0300" channel="Megapix.br">
+    <title lang="pt">Terra Selvagem</title>
+  </programme>
+  <programme start="20200815040000 -0300" stop="20200815053500 -0300" channel="Megapix.br">
+    <title lang="pt">Dominação</title>
+  </programme>
+  <programme start="20200815053500 -0300" stop="20200815071500 -0300" channel="Megapix.br">
+    <title lang="pt">O Resgate de Uma Vida</title>
+  </programme>
+  <programme start="20200815071500 -0300" stop="20200815084500 -0300" channel="Megapix.br">
+    <title lang="pt">O Reino Gelado 2</title>
+  </programme>
+  <programme start="20200815084500 -0300" stop="20200815103000 -0300" channel="Megapix.br">
+    <title lang="pt">Jurassic Park 3</title>
+  </programme>
+  <programme start="20200815103000 -0300" stop="20200815130500 -0300" channel="Megapix.br">
+    <title lang="pt">Jogos Vorazes: Em Chamas</title>
+  </programme>
+  <programme start="20200815130500 -0300" stop="20200815151500 -0300" channel="Megapix.br">
+    <title lang="pt">Como Eu Era Antes De Você</title>
+  </programme>
+  <programme start="20200815151500 -0300" stop="20200815172000 -0300" channel="Megapix.br">
+    <title lang="pt">O Diabo Veste Prada</title>
+  </programme>
+  <programme start="20200815172000 -0300" stop="20200815195000 -0300" channel="Megapix.br">
+    <title lang="pt">Waterworld</title>
+  </programme>
+  <programme start="20200815195000 -0300" stop="20200815220000 -0300" channel="Megapix.br">
+    <title lang="pt">Red 2</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815233500 -0300" channel="Megapix.br">
+    <title lang="pt">Boyka: O Imbatível</title>
+  </programme>
+  <programme start="20200815233500 -0300" stop="20200816012000 -0300" channel="Megapix.br">
+    <title lang="pt">O Homem Com Punhos de Ferro 2</title>
+  </programme>
+  <programme start="20200815012900 -0300" stop="20200815015400 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry</title>
+  </programme>
+  <programme start="20200815015400 -0300" stop="20200815021900 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry</title>
+  </programme>
+  <programme start="20200815021900 -0300" stop="20200815030000 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815030000 -0300" stop="20200815034100 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815034100 -0300" stop="20200815050400 -0300" channel="TBS">
+    <title lang="pt">Piratas Pirados!</title>
+  </programme>
+  <programme start="20200815050400 -0300" stop="20200815060000 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815070300 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+  </programme>
+  <programme start="20200815070300 -0300" stop="20200815083700 -0300" channel="TBS">
+    <title lang="pt">Amor &amp; Amizade</title>
+  </programme>
+  <programme start="20200815083700 -0300" stop="20200815090100 -0300" channel="TBS">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20200815090100 -0300" stop="20200815092500 -0300" channel="TBS">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20200815092500 -0300" stop="20200815100700 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815100700 -0300" stop="20200815105000 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815105000 -0300" stop="20200815122900 -0300" channel="TBS">
+    <title lang="pt">Meu Amigo, o Dragão</title>
+  </programme>
+  <programme start="20200815122900 -0300" stop="20200815134100 -0300" channel="TBS">
+    <title lang="pt">Praia Monstro</title>
+  </programme>
+  <programme start="20200815134100 -0300" stop="20200815140500 -0300" channel="TBS">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20200815140500 -0300" stop="20200815142900 -0300" channel="TBS">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20200815142900 -0300" stop="20200815151000 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815151000 -0300" stop="20200815155400 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+  </programme>
+  <programme start="20200815155400 -0300" stop="20200815172700 -0300" channel="TBS">
+    <title lang="pt">Os Últimos 5 Anos</title>
+  </programme>
+  <programme start="20200815172700 -0300" stop="20200815184600 -0300" channel="TBS">
+    <title lang="pt">Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso</title>
+  </programme>
+  <programme start="20200815184600 -0300" stop="20200815201500 -0300" channel="TBS">
+    <title lang="pt">Eat, Play, Love</title>
+  </programme>
+  <programme start="20200815201500 -0300" stop="20200815220000 -0300" channel="TBS">
+    <title lang="pt">De Repente é Amor</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200816001200 -0300" channel="TBS">
+    <title lang="pt">Armas na Mesa</title>
+  </programme>
+  <programme start="20200815002900 -0300" stop="20200815024500 -0300" channel="TNT">
+    <title lang="pt">Homem-aranha: De Volta Ao Lar</title>
+  </programme>
+  <programme start="20200815024500 -0300" stop="20200815041600 -0300" channel="TNT">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20200815041600 -0300" stop="20200815045100 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20200815045100 -0300" stop="20200815072300 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20200815072300 -0300" stop="20200815093200 -0300" channel="TNT">
+    <title lang="pt">Os Incríveis</title>
+  </programme>
+  <programme start="20200815093200 -0300" stop="20200815100300 -0300" channel="TNT">
+    <title lang="pt">De Olho Na Liga</title>
+  </programme>
+  <programme start="20200815100300 -0300" stop="20200815123000 -0300" channel="TNT">
+    <title lang="pt">Guardiões da Galáxia Vol. 2</title>
+  </programme>
+  <programme start="20200815123000 -0300" stop="20200815143000 -0300" channel="TNT">
+    <title lang="pt">VT</title>
+  </programme>
+  <programme start="20200815143000 -0300" stop="20200815150000 -0300" channel="TNT">
+    <title lang="pt">A Hora do Jogo</title>
+  </programme>
+  <programme start="20200815150000 -0300" stop="20200815160000 -0300" channel="TNT">
+    <title lang="pt">Pré-jogo Uefa Champions League</title>
+  </programme>
+  <programme start="20200815160000 -0300" stop="20200815180000 -0300" channel="TNT">
+    <title lang="pt">Manchester City x Lyon</title>
+  </programme>
+  <programme start="20200815180000 -0300" stop="20200815190000 -0300" channel="TNT">
+    <title lang="pt">UEFA Champions League</title>
+  </programme>
+  <programme start="20200815190000 -0300" stop="20200815200000 -0300" channel="TNT">
+    <title lang="pt">Último Lance</title>
+  </programme>
+  <programme start="20200815200000 -0300" stop="20200815215800 -0300" channel="TNT">
+    <title lang="pt">Alice Através do Espelho</title>
+  </programme>
+  <programme start="20200815215800 -0300" stop="20200815233600 -0300" channel="TNT">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20200815233600 -0300" stop="20200816012200 -0300" channel="TNT">
+    <title lang="pt">O Durão</title>
+  </programme>
+  <programme start="20200815003500 -0300" stop="20200815011900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815011900 -0300" stop="20200815020200 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815020200 -0300" stop="20200815024400 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815024400 -0300" stop="20200815032800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815032800 -0300" stop="20200815040800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815040800 -0300" stop="20200815045000 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815045000 -0300" stop="20200815053300 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815053300 -0300" stop="20200815060000 -0300" channel="TNTSerie.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20200815060000 -0300" stop="20200815064400 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815064400 -0300" stop="20200815072800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815072800 -0300" stop="20200815081200 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815081200 -0300" stop="20200815085700 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815085700 -0300" stop="20200815094300 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815094300 -0300" stop="20200815102900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815102900 -0300" stop="20200815111100 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815111100 -0300" stop="20200815115600 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815115600 -0300" stop="20200815123900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815123900 -0300" stop="20200815132600 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815132600 -0300" stop="20200815141300 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815141300 -0300" stop="20200815145800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815145800 -0300" stop="20200815154300 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815154300 -0300" stop="20200815162900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815162900 -0300" stop="20200815171600 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815171600 -0300" stop="20200815175900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815175900 -0300" stop="20200815184200 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815184200 -0300" stop="20200815192700 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815192700 -0300" stop="20200815201400 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815201400 -0300" stop="20200815205800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815205800 -0300" stop="20200815214000 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815214000 -0300" stop="20200815222500 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815222500 -0300" stop="20200815230800 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815230800 -0300" stop="20200815234900 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815234900 -0300" stop="20200816003300 -0300" channel="TNTSerie.br">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20200815004900 -0300" stop="20200815031400 -0300" channel="Cinemax HD">
+    <title lang="pt">Baahubali: O Início</title>
+  </programme>
+  <programme start="20200815031400 -0300" stop="20200815051600 -0300" channel="Cinemax HD">
+    <title lang="pt">Nine</title>
+  </programme>
+  <programme start="20200815051600 -0300" stop="20200815074400 -0300" channel="Cinemax HD">
+    <title lang="pt">J. Edgar</title>
+  </programme>
+  <programme start="20200815074400 -0300" stop="20200815093000 -0300" channel="Cinemax HD">
+    <title lang="pt">O Verão da Minha Vida</title>
+  </programme>
+  <programme start="20200815093000 -0300" stop="20200815113300 -0300" channel="Cinemax HD">
+    <title lang="pt">Quatro Amigas e um Jeans Viajante 2</title>
+  </programme>
+  <programme start="20200815113300 -0300" stop="20200815131500 -0300" channel="Cinemax HD">
+    <title lang="pt">Se Beber, Não Case! Parte 3</title>
+  </programme>
+  <programme start="20200815131500 -0300" stop="20200815145900 -0300" channel="Cinemax HD">
+    <title lang="pt">Tirando o Atraso</title>
+  </programme>
+  <programme start="20200815145900 -0300" stop="20200815164700 -0300" channel="Cinemax HD">
+    <title lang="pt">Um Bom Partido</title>
+  </programme>
+  <programme start="20200815164700 -0300" stop="20200815182900 -0300" channel="Cinemax HD">
+    <title lang="pt">Perfeita é a Mãe 2</title>
+  </programme>
+  <programme start="20200815182900 -0300" stop="20200815201400 -0300" channel="Cinemax HD">
+    <title lang="pt">Se Beber, Não Case!</title>
+  </programme>
+  <programme start="20200815201400 -0300" stop="20200815220000 -0300" channel="Cinemax HD">
+    <title lang="pt">Se Beber, Não Case! Parte 2</title>
+  </programme>
+  <programme start="20200815220000 -0300" stop="20200815234100 -0300" channel="Cinemax HD">
+    <title lang="pt">Se Beber, Não Case! Parte 3</title>
+  </programme>
+  <programme start="20200815234100 -0300" stop="20200816012300 -0300" channel="Cinemax HD">
+    <title lang="pt">Tirando o Atraso</title>
   </programme>
 </tv>
